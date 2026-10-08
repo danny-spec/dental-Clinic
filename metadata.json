@@ -1,0 +1,6 @@
+{
+  "name": "TeethCare Dental Clinic Management",
+  "description": "Modern web-based dental clinic management system with real-time patient booking, centralized patient dossiers, interactive odontogram charting, inventory tracker, and cashless Philippine billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
